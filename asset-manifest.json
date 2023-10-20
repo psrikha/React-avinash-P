@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-app-react-avinash/static/css/main.6737ede7.css",
-    "main.js": "/portfolio-app-react-avinash/static/js/main.188bbcc9.js",
+    "main.css": "/portfolio-app-react-avinash/static/css/main.dacfc1a3.css",
+    "main.js": "/portfolio-app-react-avinash/static/js/main.80a8a0be.js",
     "static/media/pic.png": "/portfolio-app-react-avinash/static/media/pic.8e852fbca80d2eedc418.png",
     "static/media/realestate.jpg": "/portfolio-app-react-avinash/static/media/realestate.44fd19f4c6872731149c.jpg",
     "static/media/workImg.jpeg": "/portfolio-app-react-avinash/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
@@ -17,11 +17,11 @@
     "static/media/sf1.png": "/portfolio-app-react-avinash/static/media/sf1.a9991c835419ef2bbeee.png",
     "static/media/javascript.png": "/portfolio-app-react-avinash/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio-app-react-avinash/index.html",
-    "main.6737ede7.css.map": "/portfolio-app-react-avinash/static/css/main.6737ede7.css.map",
-    "main.188bbcc9.js.map": "/portfolio-app-react-avinash/static/js/main.188bbcc9.js.map"
+    "main.dacfc1a3.css.map": "/portfolio-app-react-avinash/static/css/main.dacfc1a3.css.map",
+    "main.80a8a0be.js.map": "/portfolio-app-react-avinash/static/js/main.80a8a0be.js.map"
   },
   "entrypoints": [
-    "static/css/main.6737ede7.css",
-    "static/js/main.188bbcc9.js"
+    "static/css/main.dacfc1a3.css",
+    "static/js/main.80a8a0be.js"
   ]
 }
