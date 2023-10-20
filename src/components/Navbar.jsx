@@ -48,7 +48,7 @@ const Navbar = () => {
       {/* <div>
         <img src={Logo} alt='Logo Image' style={{ width: '200px' }} />
       </div> */}
-      <ul className='flex'>
+      <ul className='hidden md:flex'>
     <li className='w-[140px] ml-auto'>
       <a className='flex justify-between items-center text-gray-300 icon' href='https://www.linkedin.com/in/avinashsrikha/'>LinkedIn  
          <FaLinkedin size={30} />
@@ -74,42 +74,51 @@ const Navbar = () => {
 
       {/* Mobile menu */}
       <ul
-        className={
-          !nav
-            ? 'hidden'
-            : 'absolute top-0 left-0 w-full h-screen bg-black flex flex-col justify-center items-center'
-        }
-      >
-        <li className='py-6 text-4xl'>
-          <Link onClick={handleClick} to='home' smooth={true} offset={-100} duration={500}>
-            <span className='icon2'>Home</span>
-          </Link>
-        </li>
-        <li className='py-6 text-4xl'>
-          {' '}
-          <Link onClick={handleClick} to='about' smooth={true} offset={-100} duration={500}>
-            <span className='icon2'>About</span>
-          </Link>
-        </li>
-        <li className='py-6 text-4xl'>
-          {' '}
-          <Link onClick={handleClick} to='projects' smooth={true} offset={-100} duration={500}>
-            <span className='icon2'>Projects</span>
-          </Link>
-        </li>
-        <li className='py-6 text-4xl'>
-          {' '}
-          <Link onClick={handleClick} to='work' smooth={true} offset={-100} duration={500}>
-            <span className='icon2'>Work</span>
-          </Link>
-        </li>
-        <li className='py-6 text-4xl'>
-          {' '}
-          <Link onClick={handleClick} to='contact' smooth={true} duration={500}>
-            <span className='icon2'>Contact</span>
-          </Link>
-        </li>
-      </ul>
+  className={
+    !nav
+      ? 'hidden'
+      : 'absolute top-0 left-0 w-full h-screen bg-black flex flex-col justify-center items-center'
+  }
+>
+  <li className='py-6 text-4xl'>
+    <Link onClick={handleClick} to='home' smooth={true} offset={-100} duration={500}>
+      <span className='icon2'>Home</span>
+    </Link>
+  </li>
+  <li className='py-6 text-4xl'>
+    <Link onClick={handleClick} to='about' smooth={true} offset={-100} duration={500}>
+      <span className='icon2'>About</span>
+    </Link>
+  </li>
+  <li className='py-6 text-4xl'>
+    <Link onClick={handleClick} to='projects' smooth={true} offset={-100} duration={500}>
+      <span className='icon2'>Projects</span>
+    </Link>
+  </li>
+  <li className='py-6 text-4xl'>
+    <Link onClick={handleClick} to='work' smooth={true} offset={-100} duration={500}>
+      <span className='icon2'>Work</span>
+    </Link>
+  </li>
+  <li className='py-6 text-4xl'>
+    <Link onClick={handleClick} to='contact' smooth={true} duration={500}>
+      <span className='icon2'>Contact</span>
+    </Link>
+  </li>
+  <li className='py-6 text-2xl flex items-center justify-center'>
+  <a className='text-gray-300 icon mx-5' href='https://www.linkedin.com/in/avinashsrikha/'>
+    <FaLinkedin size={35} />
+  </a>
+  <a className='text-gray-300 icon1 mx-5' href='https://github.com/psrikha'>
+    <FaGithub size={35} />
+  </a>
+  <a className='text-gray-300 icon3 mx-5' href='https://drive.google.com/file/d/1D7YNuYrZIaYNPs_9VVny6Y5IdM-DWhUz/view?usp=drive_link'>
+    <BsFillPersonLinesFill size={35} />
+  </a>
+</li>
+
+</ul>
+
     </div>
   );
 };
