@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio-app-react-avinash/static/css/main.dacfc1a3.css",
-    "main.js": "/portfolio-app-react-avinash/static/js/main.80a8a0be.js",
-    "static/media/pic.png": "/portfolio-app-react-avinash/static/media/pic.8e852fbca80d2eedc418.png",
-    "static/media/realestate.jpg": "/portfolio-app-react-avinash/static/media/realestate.44fd19f4c6872731149c.jpg",
-    "static/media/workImg.jpeg": "/portfolio-app-react-avinash/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
-    "static/media/py.png": "/portfolio-app-react-avinash/static/media/py.7fbc3946b75e7055f1b3.png",
-    "static/media/clemson.png": "/portfolio-app-react-avinash/static/media/clemson.2e6be17c79bbfa7d9c54.png",
-    "static/media/react.png": "/portfolio-app-react-avinash/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/aws.png": "/portfolio-app-react-avinash/static/media/aws.95bdee6b9922c9b94fd5.png",
-    "static/media/ACN.png": "/portfolio-app-react-avinash/static/media/ACN.be56100c4c1edcc8e0be.png",
-    "static/media/d3.png": "/portfolio-app-react-avinash/static/media/d3.bacb7335a0a1e7b0387f.png",
-    "static/media/html.png": "/portfolio-app-react-avinash/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/css.png": "/portfolio-app-react-avinash/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/si.png": "/portfolio-app-react-avinash/static/media/si.b298951ca18a478be58b.png",
-    "static/media/sf1.png": "/portfolio-app-react-avinash/static/media/sf1.a9991c835419ef2bbeee.png",
-    "static/media/javascript.png": "/portfolio-app-react-avinash/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/portfolio-app-react-avinash/index.html",
-    "main.dacfc1a3.css.map": "/portfolio-app-react-avinash/static/css/main.dacfc1a3.css.map",
-    "main.80a8a0be.js.map": "/portfolio-app-react-avinash/static/js/main.80a8a0be.js.map"
+    "main.css": "/static/css/main.dacfc1a3.css",
+    "main.js": "/static/js/main.af29b9d3.js",
+    "static/media/pic.png": "/static/media/pic.8e852fbca80d2eedc418.png",
+    "static/media/realestate.jpg": "/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/workImg.jpeg": "/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/py.png": "/static/media/py.7fbc3946b75e7055f1b3.png",
+    "static/media/clemson.png": "/static/media/clemson.2e6be17c79bbfa7d9c54.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/ACN.png": "/static/media/ACN.be56100c4c1edcc8e0be.png",
+    "static/media/d3.png": "/static/media/d3.bacb7335a0a1e7b0387f.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/si.png": "/static/media/si.b298951ca18a478be58b.png",
+    "static/media/sf1.png": "/static/media/sf1.a9991c835419ef2bbeee.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.dacfc1a3.css.map": "/static/css/main.dacfc1a3.css.map",
+    "main.af29b9d3.js.map": "/static/js/main.af29b9d3.js.map"
   },
   "entrypoints": [
     "static/css/main.dacfc1a3.css",
-    "static/js/main.80a8a0be.js"
+    "static/js/main.af29b9d3.js"
   ]
 }
