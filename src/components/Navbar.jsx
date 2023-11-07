@@ -112,7 +112,7 @@ const Navbar = () => {
   <a className='text-gray-300 icon1 mx-5' href='https://github.com/psrikha'>
     <FaGithub size={35} />
   </a>
-  <a className='text-gray-300 icon3 mx-5' href='https://drive.google.com/file/d/1D7YNuYrZIaYNPs_9VVny6Y5IdM-DWhUz/view?usp=drive_link'>
+  <a className='text-gray-300 icon3 mx-5' href='https://drive.google.com/file/d/1xlUAPdXCQSlDpMokGZ-rpJXgTXQFz5e9/view?usp=drive_link'>
     <BsFillPersonLinesFill size={35} />
   </a>
 </li>

@@ -47,6 +47,17 @@ const Projects = () => {
           <p className='px-4 border-2 fond-bold inline-block text-orange-600 mr-4 mb-2 rounded-full'>Audio Signal Processing</p>
 </div><br></br>
 
+<p className='text-2xl fond-bold inline text-gray-200'>Video Caption Generation</p><br></br>
+          {/* <p className='fond-bold inline text-gray-300'>Python, PyTorch, Machine Learning</p> */}
+          <p className='py-2'>• Architected and executed the integration of an LSTM(Long Short-Term Memory) encoder-decoder framework for automatic video caption generation<br></br>
+          • Utilized the MSVD dataset of 120k sentences and obtained a BLEU(Bilingual Evaluation Understudy) score metric of 0.610, indicating the similarity of the machine-translated text to a set of high-quality reference translations<br></br>
+</p>
+<div className='py-2 flex flex-wrap justify-start items-center px-10'>
+          <p className='px-4 border-2 fond-bold inline-block text-orange-600 mr-4 mb-2 rounded-full'>PyTorch</p>
+          <p className='px-4 border-2 fond-bold inline-block text-orange-600 mr-4 mb-2 rounded-full'>LSTM</p>
+          <p className='px-4 border-2 fond-bold inline-block text-orange-600 mr-4 mb-2 rounded-full'>Machine Learning</p></div><br></br>
+
+
 <p className='text-2xl fond-bold inline text-gray-200'>Pedestrian Detection using OpenCV</p><br></br>
           {/* <p className='fond-bold inline text-gray-300'>Python, Machine Learning and Computer Vision</p> */}
           <p className='py-2'>•	Designed an AI system through python utilizing Haar cascades from OpenCV which is pre-trained on linear SVM model to identify individuals based on geometric features, with applications in autonomous vehicles and surveillance cameras<br></br></p>
@@ -60,12 +71,11 @@ const Projects = () => {
 <p className='text-2xl fond-bold inline text-gray-200'>Fake Review Detection</p><br></br>
           {/* <p className='fond-bold inline text-gray-300'>Python, PyTorch, Machine Learning</p> */}
           <p className='py-2'>•	Constructed a robust machine learning model capable of predicting whether a given product review is deceptive or genuine, achieving an accuracy of over 85%<br></br>
-•	Trained the model using a Dataset comprising more than 3000 reviews and implemented utilizing Naïve Bayes and Random Forest algorithms. Conducted an in-depth performance analysis of the models for optimal results<br></br>
+•	Trained the model using a Dataset comprising more than 3000 reviews and implemented utilizing Naïve Bayes and Random Forest algorithms<br></br>
 </p>
 <div className='py-2 flex flex-wrap justify-start items-center px-10'>
-          <p className='px-4 border-2 fond-bold inline-block text-orange-600 mr-4 mb-2 rounded-full'>Python</p>
           <p className='px-4 border-2 fond-bold inline-block text-orange-600 mr-4 mb-2 rounded-full'>PyTorch</p>
-          <p className='px-4 border-2 fond-bold inline-block text-orange-600 mr-4 mb-2 rounded-full'>Machine Learning</p><br></br></div>
+          <p className='px-4 border-2 fond-bold inline-block text-orange-600 mr-4 mb-2 rounded-full'>Machine Learning</p></div><br></br>
 </div>
 
       </div>
